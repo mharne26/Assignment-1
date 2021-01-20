@@ -1,4 +1,8 @@
 package classes;
+/*
+ * Imported: 10% import duty on item cost + a surcharge (surcharge is: Rs. 5 if the final cost after applying tax & import duty is up to Rs. 100, Rs. 10 if the cost exceeds 100 and up to 200 and 5% of the final cost if it exceeds 200).
+
+ */
 
 public class Imported extends Item{
 	

@@ -23,49 +23,49 @@ public abstract class Item {
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
-	}
+//	public void setName(String name) {
+//		this.name = name;
+//	}
 
 	public double getPrice() {
 		return price;
 	}
 
-	public void setPrice(double price) {
-		this.price = price;
-	}
+//	public void setPrice(double price) {
+//		this.price = price;
+//	}
 
 	public int getQuantity() {
 		return quantity;
 	}
 
-	public void setQuantity(int quantity) {
-		this.quantity = quantity;
-	}
+//	public void setQuantity(int quantity) {
+//		this.quantity = quantity;
+//	}
 
 	public String getType() {
 		return type;
 	}
 
-	public void setType(String type) {
-		this.type = type;
-	}
+//	public void setType(String type) {
+//		this.type = type;
+//	}
 
 	public double getTax_liability() {
 		return tax_liability;
 	}
 
-	public void setTax_liability(double tax_liability) {
-		this.tax_liability = tax_liability;
-	}
+//	public void setTax_liability(double tax_liability) {
+//		this.tax_liability = tax_liability;
+//	}
 
 	public double getFinal_price_after_tax() {
 		return final_price_after_tax;
 	}
 
-	public void setFinal_price_after_tax(double final_price_after_tax) {
-		this.final_price_after_tax = final_price_after_tax;
-	}
+//	public void setFinal_price_after_tax(double final_price_after_tax) {
+//		this.final_price_after_tax = final_price_after_tax;
+//	}
 
 	public double getTotal_Price() {
 		return total_Price;

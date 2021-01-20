@@ -1,5 +1,8 @@
 package classes;
+/*
+ * Raw: 12.5% of the item cost
 
+ */
 
 public class Raw extends Item{
 	

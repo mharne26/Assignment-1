@@ -1,5 +1,8 @@
 package classes;
+/*
+ * Manufactured: 12.5% of the item cost + 2% of (item cost + 12.5% of item cost)
 
+ */
 public class Manufactured extends Item {
 	
 	public Manufactured(String name, double price,int quantity, String type)
